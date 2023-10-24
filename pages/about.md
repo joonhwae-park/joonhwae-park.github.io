@@ -7,13 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a Ph.D candidate at [Machine Learning and Intelligence Lab](https://mli.kaist.ac.kr/) (MLILAB) in KAIST, advised by [Prof. Eunho Yang](https://sites.google.com/site/yangeh/publications).
+I'm a M.S student at [Digital Society & Data Studies Lab](https://dlab.kaist.ac.kr/) (d.lab) in KAIST, advised by [Prof. Daegon Cho](https://www.business.kaist.ac.kr/faculty/dgcho).
 
-**Graph-Driven Modal Understanding**\\
-My research interest lies in elucidating unstructured data modalities **through the lens of graph structure**, *e.g.* object graphs (3D vision) and knowledge graphs (natural language). I work on building machine learning algorithms that leverage relational information therein, revisiting complex real-world problems within a graph-based framework to provide a structured understanding of unstructured data. Recently, my primary focus has been on cross-modal learning/alignment by means of a graph, oriented towards resolving open-vocabulary challenges.
-
-**Learning on 3D Vision**\\
-My primary research interest in 3D vision falls into two branches following: 1) **Cross-modal 3D understanding**. It aims to harness the power of auxiliary data modalities for an in-depth comprehension of complex 3D data. Currently, I'm working on open-vocabulary 3D scene segmentation with object-relational graphs leveraging recent language foundation models' capabilities. 2) **Sim-to-real adaptation for 3D data**. My recent research efforts have been dedicated to narrowing the domain gap between synthetic and real-world 3D data. Ranging from developing adaptation strategies to curating 3D photorealistic datasets, my recent objective is to facilitate successful sim-to-real transfer across a broad range of 3D vision tasks.
+**Research Interests**\\
+My research interest lies at the interaction between societal and technical aspects of the real world. In terms of methodologies, I work on applying **Machine Learning with Causal Inference**. Specifically, I'm interested in considering several modalities together to find out novel features that can explain the mechanism of human behavior on **\lbraceE-commerce, Online Platform\rbrace** context. Moreover, I'm willing to conduct researches about **Algorithmic Fairness**. In more detail, I have curiosity about tradeoffs between algorithm bias and consumer bias. Also, based on my past experiences related to finance, I'm interested in how **Fintech** altered consumer behavior and financial markets.
 
 ## Conference Publications
 - **<font size="4">PC-Adapter: Topology-Aware Adapter for Efficient Domain Adaption on Point Clouds with Rectified Pseudo Label</font>**
