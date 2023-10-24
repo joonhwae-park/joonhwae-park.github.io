@@ -15,15 +15,15 @@ I'm a M.S student at [Digital Society & Data Studies Lab](https://dlab.kaist.ac.
 - **B.S.** in Business Administration \\ **B.S.** in Industrial Engineering  \\ **Hanyang University**, <font size="3">Mar. 2018 - Feb. 2022</font> - <span style="color:darkred;font-size:3;">(*Cum Laude*)</span>
 
 **Research Interests**\\
-My research interest lies at the interaction between societal and technical aspects of the real world. In terms of methodologies, I work on applying **Machine Learning with Causal Inference**. Specifically, I'm interested in considering several modalities together to find out novel features that can explain the mechanism of human behavior on **\lbraceE-commerce, Online Platform\rbrace** context. Moreover, I'm willing to conduct researches about **Algorithmic Fairness**. In more detail, I have curiosity about tradeoffs between algorithm bias and consumer bias. Also, based on my past experiences related to finance, I'm interested in how **Fintech** altered consumer behavior and financial markets.
+My research interest lies at the interaction between societal and technical aspects of the real world. In terms of methodologies, I work on applying **Machine Learning with Causal Inference**. Specifically, I'm interested in considering several modalities together to find out novel features that can explain the mechanism of human behavior on **{E-commerce, Online Platform}** context. Moreover, I'm willing to conduct researches about **Algorithmic Fairness**. In more detail, I have curiosity about tradeoffs between algorithm bias and consumer bias. Also, based on my past experiences related to finance, I'm interested in how **Fintech** altered consumer behavior and financial markets.
 
 ## Working Papers
-- **<font size="4">Do Images Dominate Texts?: An Empirical Investigation of the Dynamics of Information</font>** \\
+- **Do Images Dominate Texts?: An Empirical Investigation of the Dynamics of Information** \\
 **Joonhwae Park**, Daegon Cho \\
 <span style="color:darkred">**WISE**</span> 2023
-- **<font size="4">Reshaping of Shopping Time Habits: An Empirical Study from Large Retail Stores</font>** \\
+- **Reshaping of Shopping Time Habits: An Empirical Study from Large Retail Stores** \\
 **Joonhwae Park**, Daegon Cho \\
-Available at (https://ssrn.com/abstract=4565532)
+Available at \url{https://ssrn.com/abstract=4565532}
 
 
 ## Work Experiences
