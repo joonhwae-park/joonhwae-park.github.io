@@ -20,7 +20,7 @@ title                    : "Joonhwae Park"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Joonhwae Park"
-description              : "M.S. student at College of Business, Korea Advanced Institute of Science and Technology (KAIST)"
+description              : "M.S. student at KAIST"
 url                      : "https://joonhwae-park.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -96,9 +96,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "G-E8ERHSDHLK"
     anonymize_ip         : # true, false (default)
 
 
