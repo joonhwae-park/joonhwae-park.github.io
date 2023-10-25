@@ -14,7 +14,7 @@ I'm a M.S student at [Digital Society & Data Studies Lab](https://dlab.kaist.ac.
 
 - **B.S.** in Business Administration & **B.S.** in Industrial Engineering, **Hanyang University**, <font size="3">Mar. 2018 - Feb. 2022</font> - <span style="color:darkred;font-size:3;">(*Cum Laude*)</span>
 
-## Research Interests \\
+## Research Interests
 My research interest lies at the intersection between societal and technical aspects of the real world. In terms of methodologies, I focus on integrating **Machine Learning with Causal Inference**. Specifically, I'm interested in considering multiple modalities together to uncover novel features that can explain the mechanism of human behavior within the context of **{E-commerce, Online Platform}**. Additionally, I am passionate about exploring  **Algorithmic Fairness**. For example, I have curiosity about trade-offs between algorithmic bias and consumer bias. Building on my past experiences in finance, I am also intrigued by how Fintech has transformed consumer behavior and financial markets.
 
 ## Working Papers
