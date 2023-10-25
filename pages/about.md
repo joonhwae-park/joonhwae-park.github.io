@@ -15,20 +15,20 @@ I'm a M.S student at [Digital Society & Data Studies Lab](https://dlab.kaist.ac.
 - **B.S.** in Business Administration & **B.S.** in Industrial Engineering, **Hanyang University**, <font size="3">Mar. 2018 - Feb. 2022</font> - <span style="color:darkred;font-size:3;">(*Cum Laude*)</span>
 
 **Research Interests**\\
-My research interest lies at the interaction between societal and technical aspects of the real world. In terms of methodologies, I work on applying **Machine Learning with Causal Inference**. Specifically, I'm interested in considering several modalities together to find out novel features that can explain the mechanism of human behavior on **{E-commerce, Online Platform}** context. Moreover, I'm willing to conduct researches about **Algorithmic Fairness**. In more detail, I have curiosity about tradeoffs between algorithm bias and consumer bias. Also, based on my past experiences related to finance, I'm interested in how **Fintech** altered consumer behavior and financial markets.
+My research interest lies at the intersection between societal and technical aspects of the real world. In terms of methodologies, I focus on integrating **Machine Learning with Causal Inference**. Specifically, I'm interested in considering multiple modalities together to uncover novel features that can explain the mechanism of human behavior within the context of **{E-commerce, Online Platform}**. Additionally, I am passionate about exploring  **Algorithmic Fairness**. For example, I have curiosity about trade-offs between algorithmic bias and consumer bias. Building on my past experiences in finance, I am also intrigued by how Fintech has transformed consumer behavior and financial markets.
 
 ## Working Papers
 - **Do Images Dominate Texts?: An Empirical Investigation of the Dynamics of Information** \\
 **Joonhwae Park**, Daegon Cho \\
-<span style="color:darkred">**WISE**</span> 2023
+  - <span style="color:darkred">**WISE**</span> 2023
 - **Reshaping of Shopping Time Habits: An Empirical Study from Large Retail Stores** \\
 **Joonhwae Park**, Daegon Cho \\
-Available at [SSRN](https://ssrn.com/abstract=4565532)
+  - Available at [SSRN](https://ssrn.com/abstract=4565532)
 
 ## Other Research Experience
 - Undergraduate Researcher, **Hanyang University**, Seoul, South Korea, <font size="3">Mar. 2020 - Aug. 2020</font>
   - Quantitative Analytics Lab
-  - Developed an advanced industrial classification model for domestic Value Added Network (equals to Enhanced Service) providers using NLP technique. (supported by the Ministry of Science and ICT)
+  - Developed an advanced industrial classification model for domestic Value Added Network (equals to Enhanced Service) providers using NLP techniques. (supported by the Ministry of Science and ICT)
   - Developed a Robo-Advisor using deep learning models to chase disparate ratio in ETF pair trading.
 
 
