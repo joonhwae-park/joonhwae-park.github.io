@@ -26,8 +26,7 @@ My research interest lies at the intersection between societal and technical asp
   - Available at [SSRN](https://ssrn.com/abstract=4565532)
 
 ## Other Research Experience
-- Undergraduate Researcher, **Hanyang University**, Seoul, South Korea, <font size="3">Mar. 2020 - Aug. 2020</font>
-  - Quantitative Analytics Lab
+- Undergraduate Researcher, Quantitative Analytics Lab, **Hanyang University**, Seoul, South Korea, <font size="3">Mar. 2020 - Aug. 2020</font>
   - Developed an advanced industrial classification model for domestic Value Added Network (equals to Enhanced Service) providers using NLP techniques. (supported by the Ministry of Science and ICT)
   - Developed a Robo-Advisor using deep learning models to chase disparate ratio in ETF pair trading.
 
