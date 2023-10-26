@@ -35,7 +35,7 @@ My research interest lies at the intersection between societal and technical asp
 ## Work Experiences
 - Intern, **MiraeAsset Global Investment**, Seoul, South Korea, <font size="3">Oct. 2021 - Dec. 2021</font>
   - Robo-Advisor Team, AI Financial Engineering Division
-- Intern, **NCSOFT**, Gyeonggi-do, South Korea, <font size="3">Feb. 2021 - Apr. 2021</font>
+- Intern, **NCSOFT**, Seongnam, South Korea, <font size="3">Feb. 2021 - Apr. 2021</font>
   - Language Data Team, Language AI Lab in R&D Center
 - Intern, **Daishin Economic Research Institute**, Seoul, South Korea, <font size="3">Jun. 2020 - Aug. 2020</font>
   - Corporate Governance Research Division
