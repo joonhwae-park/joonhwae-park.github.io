@@ -21,7 +21,7 @@ My research interest lies at the intersection between societal and technical asp
 - **Do Images Dominate Texts?: An Empirical Investigation of the Dynamics of Information** \\
 **Joonhwae Park**, Daegon Cho \\
   - <span style="color:darkred">**WISE**</span> 2023
-  - <span style="color:darkred">*Best Thesis Award*</span> 2024, KAIST
+  - *Best Thesis Award*</span> 2024, KAIST
 - **Reshaping of Shopping Time Habits: An Empirical Study from Large Retail Stores** \\
 **Joonhwae Park**, Daegon Cho \\
   - Available at [SSRN](https://ssrn.com/abstract=4565532)
