@@ -7,10 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a M.S student at [Digital Society & Data Studies Lab](https://dlab.kaist.ac.kr/) (d.lab) in KAIST, advised by [Prof. Daegon Cho](https://www.business.kaist.ac.kr/faculty/dgcho).
+I'm an incoming ISOM Ph.D. Student at Emory University-Goizueta Business School.
 
 ## Education
-- **M.S.** in Managment Engineering (Information Systems track), **Korea Advanced Institute of Science and Technology (KAIST)**, <font size="3">Mar. 2022 - Feb. 2024 (expected)</font> 
+- **M.S.** in Managment Engineering (Information Systems track), **Korea Advanced Institute of Science and Technology (KAIST)**, <font size="3">Mar. 2022 - Feb. 2024 (adviser [Daegon Cho](https://www.business.kaist.ac.kr/faculty/dgcho))</font> 
 
 - **B.S.** in Business Administration & **B.S.** in Industrial Engineering, **Hanyang University**, <font size="3">Mar. 2018 - Feb. 2022</font> - <span style="color:darkred;font-size:3;">(*Cum Laude*)</span>
 
@@ -21,6 +21,7 @@ My research interest lies at the intersection between societal and technical asp
 - **Do Images Dominate Texts?: An Empirical Investigation of the Dynamics of Information** \\
 **Joonhwae Park**, Daegon Cho \\
   - <span style="color:darkred">**WISE**</span> 2023
+  - - <span style="color:darkred">*Best Thesis Award*</span> 2024, KAIST
 - **Reshaping of Shopping Time Habits: An Empirical Study from Large Retail Stores** \\
 **Joonhwae Park**, Daegon Cho \\
   - Available at [SSRN](https://ssrn.com/abstract=4565532)
