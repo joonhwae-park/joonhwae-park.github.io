@@ -108,11 +108,11 @@ author:
   avatar           : "/images/Joonhwae_Park_profile_img.jpg"
   bio              : "M.S. student at College of Business, Korea Advanced Institute of Science and Technology (KAIST)"
   location         : "Seoul, South Korea"
-  email            : "hipete@kaist.ac.kr"
+  email            : "joonhwae.park@emory.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:hipete@kaist.ac.kr"
+      # url: "mailto:joonhwae.park@emory.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
