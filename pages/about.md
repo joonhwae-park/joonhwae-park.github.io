@@ -10,7 +10,7 @@ redirect_from:
 I'm an incoming ISOM Ph.D. Student at Emory University-Goizueta Business School.
 
 ## Education
-- **M.S.** in Managment Engineering (Information Systems track), **Korea Advanced Institute of Science and Technology (KAIST)**, <font size="3">Mar. 2022 - Feb. 2024</font> <font size="3.5">(adviser: [Daegon Cho](https://www.business.kaist.ac.kr/faculty/dgcho) )</font>
+- **M.S.** in Managment Engineering (Information Systems track), **Korea Advanced Institute of Science and Technology (KAIST)**, <font size="3">Mar. 2022 - Feb. 2024</font> <font size="3.5">(adviser: Daegon Cho)</font>
 
 - **B.S.** in Business Administration & **B.S.** in Industrial Engineering, **Hanyang University**, <font size="3">Mar. 2018 - Feb. 2022</font> - <span style="color:darkred;font-size:3;">(*Cum Laude*)</span>
 
@@ -24,7 +24,6 @@ My research interest lies at the intersection between societal and technical asp
   - *Best Thesis Award* 2024, KAIST
 - **Reshaping of Shopping Time Habits: An Empirical Study from Large Retail Stores** \\
 **Joonhwae Park**, Daegon Cho \\
-  - Available at [SSRN](https://ssrn.com/abstract=4565532)
 
 ## Other Research Experience
 - Undergraduate Researcher, Quantitative Analytics Lab, **Hanyang University**, Seoul, South Korea, <font size="3">Mar. 2020 - Aug. 2020</font>
