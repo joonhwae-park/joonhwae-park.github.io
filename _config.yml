@@ -20,7 +20,7 @@ title                    : "Joonhwae Park"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Joonhwae Park"
-description              : "M.S. student at KAIST"
+description              : "Ph.D. student at Emory University"
 url                      : "https://joonhwae-park.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -105,8 +105,8 @@ analytics:
 # Site Author
 author:
   name             : "Joonhwae Park"
-  avatar           : "/images/Joonhwae_Park_profile_img.jpg"
-  bio              : "M.S. student at College of Business, Korea Advanced Institute of Science and Technology (KAIST)"
+  avatar           : "/images/Profile_img.jpg"
+  bio              : "Ph.D. student at Goizueta Business School, Emory University"
   location         : "Seoul, South Korea"
   email            : "joonhwae.park@emory.edu"
   links:
