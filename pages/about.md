@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a first year Ph.D. Student in Information Systems at Emory University-Goizueta Business School.
+I'm a first year Ph.D. student in Information Systems at Emory University-Goizueta Business School.
 
 ## Education
 - **M.S.** in Managment Engineering (Information Systems track), **Korea Advanced Institute of Science and Technology (KAIST)**, <font size="3">Mar. 2022 - Feb. 2024</font> <font size="3.5"></font>
