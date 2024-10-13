@@ -23,7 +23,7 @@ My research interest lies at the intersection between societal and technical asp
   - <span style="color:darkred">**WISE**</span> 2023, <span style="color:darkred">**CIST**</span> 2024, <span style="color:darkred">**ICIS**</span> 2024
   - *Best Thesis Award* 2024, KAIST
 - **Reshaping of Shopping Time Habits: An Empirical Study from Large Retail Stores** \\
-**Joonhwae Park**, Daegon Cho \\
+**Joonhwae Park**, Daegon Cho
 
 ## Other Research Experience
 - Undergraduate Researcher, Quantitative Analytics Lab, **Hanyang University**, Seoul, South Korea, <font size="3">Mar. 2020 - Aug. 2020</font>
