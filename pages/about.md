@@ -24,9 +24,9 @@ Joonhwae Park, Daegon Cho, Donghyuk Shin \\
 
 
 ## Education
-- **M.S.** in Managment Engineering, **Korea Advanced Institute of Science and Technology (KAIST)** \\ <font size="3">Mar. 2022 - Feb. 2024</font>
+- **M.S.** in Managment Engineering, **Korea Advanced Institute of Science and Technology (KAIST)** <br> <font size="3">Mar. 2022 - Feb. 2024</font>
 
-- **B.S.** in Business Administration & **B.S.** in Industrial Engineering, **Hanyang University** \\ <font size="3">Mar. 2018 - Feb. 2022</font> - <span style="color:darkred;font-size:3;">(*Cum Laude*)</span>
+- **B.S.** in Business Administration & **B.S.** in Industrial Engineering, **Hanyang University** <br> <font size="3">Mar. 2018 - Feb. 2022</font> - <span style="color:darkred;font-size:3;">(*Cum Laude*)</span>
 
 
 <!--## Other Research Experience-->
