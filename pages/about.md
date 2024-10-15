@@ -16,7 +16,7 @@ My research interest lies at the intersection between societal and technical asp
 
 ## Working Papers
 - **When Does Text Boost Images: An Empirical Investigation of the Dynamics of Information** <br>
-Joonhwae Park, Daegon Cho, Donghyuk Shin
+Joonhwae Park, Daegon Cho, Donghyuk Shin <br><span style="line-height:0.1em;"> </span><br>
   - <span style="color:darkred">**WISE**</span> 2023, <span style="color:darkred">**CIST**</span> 2024, <span style="color:darkred">**ICIS**</span> 2024
   - *Best Thesis Award* 2024, KAIST
  
