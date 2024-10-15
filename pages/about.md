@@ -9,13 +9,10 @@ redirect_from:
 ---
 I'm a first year Ph.D. student in Information Systems at Emory University-Goizueta Business School.
 
-## Education
-- **M.S.** in Managment Engineering (Information Systems track), **Korea Advanced Institute of Science and Technology (KAIST)**, <font size="3">Mar. 2022 - Feb. 2024</font> <font size="3.5"></font>
-
-- **B.S.** in Business Administration & **B.S.** in Industrial Engineering, **Hanyang University**, <font size="3">Mar. 2018 - Feb. 2022</font> - <span style="color:darkred;font-size:3;">(*Cum Laude*)</span>
 
 ## Research Interests
 My research interest lies at the intersection between societal and technical aspects of the real world. In terms of methodologies, I focus on integrating **Machine Learning with Causal Inference**. Specifically, I'm interested in considering multiple modalities together to uncover novel features that can explain the mechanism of human behavior within the context of **{E-commerce, Online Platform}**. Additionally, I am passionate about exploring  **Algorithmic Fairness**. For example, I have curiosity about trade-offs between algorithmic bias and consumer bias. Building on my past experiences in finance, I am also intrigued by how **Fintech** has transformed consumer behavior and financial markets.
+
 
 ## Working Papers
 - **When Does Text Boost Images: An Empirical Investigation of the Dynamics of Information** \\
@@ -24,6 +21,13 @@ My research interest lies at the intersection between societal and technical asp
   - *Best Thesis Award* 2024, KAIST
 - **Reshaping of Shopping Time Habits: An Empirical Study from Large Retail Stores** \\
 **Joonhwae Park**, Daegon Cho
+
+
+## Education
+- **M.S.** in Managment Engineering (Information Systems track), **Korea Advanced Institute of Science and Technology (KAIST)**, <font size="3">Mar. 2022 - Feb. 2024</font> <font size="3.5"></font>
+
+- **B.S.** in Business Administration & **B.S.** in Industrial Engineering, **Hanyang University**, <font size="3">Mar. 2018 - Feb. 2022</font> - <span style="color:darkred;font-size:3;">(*Cum Laude*)</span>
+
 
 ## Other Research Experience
 - Undergraduate Researcher, Quantitative Analytics Lab, **Hanyang University**, Seoul, South Korea, <font size="3">Mar. 2020 - Aug. 2020</font>
