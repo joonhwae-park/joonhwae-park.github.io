@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a first year Ph.D. student in Information Systems at Emory University-Goizueta Business School.
+I'm a first year Ph.D. student in Information Systems at Emory University.
 
 
 ## Research Interests
