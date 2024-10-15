@@ -29,10 +29,10 @@ My research interest lies at the intersection between societal and technical asp
 - **B.S.** in Business Administration & **B.S.** in Industrial Engineering, **Hanyang University**, <font size="3">Mar. 2018 - Feb. 2022</font> - <span style="color:darkred;font-size:3;">(*Cum Laude*)</span>
 
 
-[//]: #  ## Other Research Experience
-[//]: # - Undergraduate Researcher, Quantitative Analytics Lab, **Hanyang University**, Seoul, South Korea, <font size="3">Mar. 2020 - Aug. 2020</font>
-[//]: #   - Developed an advanced industrial classification model for domestic Value Added Network (equals to Enhanced Service) providers using NLP techniques. (supported by the Ministry of Science and ICT)
-[//]: #  - Developed a Robo-Advisor using deep learning models to chase disparate ratio in ETF pair trading.
+<!--## Other Research Experience-->
+<!-- - Undergraduate Researcher, Quantitative Analytics Lab, **Hanyang University**, Seoul, South Korea, <font size="3">Mar. 2020 - Aug. 2020</font>-->
+<!--  - Developed an advanced industrial classification model for domestic Value Added Network (equals to Enhanced Service) providers using NLP techniques. (supported by the Ministry of Science and ICT)-->
+<!--  - Developed a Robo-Advisor using deep learning models to chase disparate ratio in ETF pair trading.-->
 
 ## Work Experiences
 - Intern, **MiraeAsset Global Investment**, Seoul, South Korea, <font size="3">Oct. 2021 - Dec. 2021</font>
