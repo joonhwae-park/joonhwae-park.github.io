@@ -11,7 +11,7 @@ I'm a first year Ph.D. student in Information Systems at Emory University.
 
 
 ## Research Interests
-My research interest lies at the intersection between societal and technical aspects of the real world. In terms of methodologies, I focus on integrating **Machine Learning with Causal Inference**. Specifically, I'm interested in considering multiple modalities together to uncover novel features that can explain the mechanism of human behavior within the context of **{E-commerce, Online Platform}**. Additionally, I am passionate about exploring **Recommender Systems** using **{Experimental Design, Agent-based Simulation}**. For instance, I am curious about the construction of recommendation sets to address the diversity-relevance trade-off.
+My research interest lies at the intersection between societal and technical aspects of the real world. In terms of methodologies, I focus on integrating **Machine Learning with Causal Inference**. Specifically, I'm interested in considering multiple modalities together to uncover novel features that can explain the mechanism of human decision-making within the context of **{E-commerce, Online Platform}**. Additionally, I am passionate about exploring **Recommender Systems** using **{Experimental Design, Agent-based Simulation}**. For instance, I am curious about the construction of recommendation sets to address the diversity-relevance trade-off.
 
 
 ## Working Papers
