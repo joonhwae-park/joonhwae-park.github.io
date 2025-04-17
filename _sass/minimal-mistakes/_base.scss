@@ -337,3 +337,14 @@ input[type="submit"],
   -webkit-transition: $global-transition;
   transition: $global-transition;
 }
+
+.author__avatar img {
+  filter: none !important;
+  opacity: 1 !important;
+  transition: none !important;
+}
+
+.author__avatar:hover img {
+  filter: none !important;
+  opacity: 1 !important;
+}
