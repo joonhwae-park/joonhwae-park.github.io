@@ -3,6 +3,26 @@
 
 <div itemscope itemtype="https://schema.org/Person" class="h-card">
 
+  <style>
+.author__avatar img {
+  filter: none !important;
+  opacity: 1 !important;
+  transition: none !important;
+  object-fit: cover !important;
+  object-position: top !important;
+  border-radius: 50% !important;
+}
+.h-card:hover .author__avatar img,
+.author__profile:hover .author__avatar img,
+.author__urls:hover .author__avatar img,
+.author__urls-wrapper:hover .author__avatar img {
+  filter: none !important;
+  opacity: 1 !important;
+  transition: none !important;
+}
+</style>
+
+
   {% if author.avatar %}
     <div class="author__avatar">
        <img src="{{ author.avatar }}" alt="{{ author.name }}">
