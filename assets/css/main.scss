@@ -7,3 +7,19 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+.author__avatar img {
+  opacity: 1 !important;
+}
+
+.author__avatar img:hover {
+  opacity: 1 !important;
+}
+
+.author__urls-wrapper a {
+  opacity: 1 !important;
+}
+
+.author__urls-wrapper a:hover {
+  opacity: 1 !important;
+}
