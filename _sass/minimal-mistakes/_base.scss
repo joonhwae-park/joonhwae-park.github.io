@@ -344,7 +344,7 @@ input[type="submit"],
   transition: none !important;
 }
 
-.author__avatar:hover img {
+.author__profile:hover .author__avatar img {
   filter: none !important;
   opacity: 1 !important;
 }
