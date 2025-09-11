@@ -21,9 +21,6 @@ Joonhwae Park, Daegon Cho, Donghyuk Shin
   - *Best Thesis Award* 2024, KAIST
  
 
-- **Reshaping of Shopping Time Habits: An Empirical Study from Large Retail Stores** <br>
-  Joonhwae Park, Daegon Cho
-
 
 ## Education
 - **M.S.** in Managment Engineering, **Korea Advanced Institute of Science and Technology (KAIST)** <br> <font size="3">Mar. 2022 - Feb. 2024</font>
