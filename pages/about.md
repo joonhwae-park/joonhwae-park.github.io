@@ -16,7 +16,8 @@ My research interest lies at the intersection between societal and technical asp
 
 ## Working Papers
 - **Examining the Role of Generative AI in Recommender Systems** <br>
-(with Panagiotis (Panos) Adamopoulos, Vilma Todri)
+(_with Panagiotis (Panos) Adamopoulos, Vilma Todri_)  
+
 - **When Does Text Boost Images: An Empirical Investigation of the Dynamics of Information** <br>
 Joonhwae Park, Daegon Cho, Donghyuk Shin
   - <span style="color:darkred">**WISE**</span> 2023, <span style="color:darkred">**CIST**</span> 2024, <span style="color:darkred">**ICIS**</span> 2024
