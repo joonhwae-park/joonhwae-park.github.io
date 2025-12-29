@@ -16,12 +16,12 @@ My research interest lies at the intersection between societal and technical asp
 
 ## Working Papers
 - **Examining the Role of Generative AI in Recommender Systems** <br>
-(with Panagiotis (Panos) Adamopoulos, Vilma Todri)
+(with Panagiotis (Panos) Adamopoulos, Vilma Todri)  
   - John E. Robson Grant ($5,500)
   - Google Cloud Resarch Grant ($1,000)
 
 - **When Does Text Boost Images: An Empirical Investigation of the Dynamics of Information** <br>
-Joonhwae Park, Daegon Cho, Donghyuk Shin
+Joonhwae Park, Daegon Cho, Donghyuk Shin  
   - <span style="color:darkred">**WISE**</span> 2023, <span style="color:darkred">**CIST**</span> 2024, <span style="color:darkred">**ICIS**</span> 2024
   - *Best Thesis Award* 2024, KAIST
  
