@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a Ph.D. candidate in Information Systems at Emory University.
+Hi! I'm a Ph.D. candidate in Information Systems at Emory University.
 
 
 ## Research Interests
