@@ -1,8 +1,10 @@
 # main links
 main:
- - title: "Joonhwae Park"
-   url: /
+  - title: "Joonhwae Park"
+    url: /
+
   - title: "Research"
     url: /research/
+
   - title: "Teaching"
     url: /teaching/
