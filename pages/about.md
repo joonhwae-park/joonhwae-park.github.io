@@ -7,24 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a Ph.D. student in Information Systems at Emory University.
+I'm a Ph.D. candidate in Information Systems at Emory University.
 
 
 ## Research Interests
 My research interest lies at the intersection between societal and technical aspects of the real world. In terms of methodologies, I focus on integrating **Machine Learning with Causal Inference**. Specifically, I'm interested in considering multiple modalities together to uncover novel features that can explain the mechanism of human decision-making within the context of **{E-commerce, Online Platform}**. Additionally, I am passionate about exploring **Recommender Systems** through **{Experimental Design, Agent-based Simulation}**. Currently, I am particularly interested in 1) improving evaluation methods and 2) enhancing negative sampling techniques.
-
-
-## Working Papers
-- **Examining the Role of Generative AI in Recommender Systems**  
-(with Panagiotis (Panos) Adamopoulos, Vilma Todri)  
-  - John E. Robson Grant ($5,500)
-  - Google Cloud Research Grant ($1,000)
-
-
-- **When Does Text Boost Images: An Empirical Investigation of the Dynamics of Information**  
-Joonhwae Park, Daegon Cho, Donghyuk Shin  
-  - <span style="color:darkred">**WISE**</span> 2023, <span style="color:darkred">**CIST**</span> 2024, <span style="color:darkred">**ICIS**</span> 2024
-  - *Best Thesis Award* 2024, KAIST
  
 
 
