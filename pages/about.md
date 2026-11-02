@@ -16,7 +16,7 @@ My research interest lies at the intersection between societal and technical asp
 
 
 ## Education
-- **Ph.D.** in Information Systems, **Emory University** <br> <font size="3">Aug. 2024 - Present</font>
+- **Ph.D.** in Information Systems and Operations Management, **Emory University** <br> <font size="3">Aug. 2024 - Present</font>
 
 - **M.S.** in Managment Engineering, **Korea Advanced Institute of Science and Technology (KAIST)** <br> <font size="3">Mar. 2022 - Feb. 2024</font>
 
