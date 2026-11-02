@@ -20,7 +20,7 @@ title                    : "Joonhwae Park"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Joonhwae Park"
-description              : "Ph.D. student at Emory University"
+description              : "Ph.D. candidate at Emory University"
 url                      : "https://joonhwae-park.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
