@@ -13,10 +13,10 @@ author_profile: true
   - John E. Robson Grant ($8,250)
   - Google Cloud Research Grant ($2,000)
 
-- **Impact of AI-generated Fraudulent Content at Scale on Online Platforms**
+- **Impact of AI-generated Fraudulent Content at Scale on Online Platforms**  
 (with Panagiotis (Panos) Adamopoulos, Marios Papachristou)
 
-- **Survival-Calibrated Non-Return Neagative Sampling for Recommendation**
+- **Survival-Calibrated Non-Return Neagative Sampling for Recommendation**  
 (with Panagiotis (Panos) Adamopoulos)
 
 
