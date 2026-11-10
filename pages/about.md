@@ -11,7 +11,9 @@ Hi! I'm a Ph.D. candidate in Information Systems at Emory University.
 
 
 ## Research Interests
-My research interest lies at the intersection between societal and technical aspects of the real world. In terms of methodologies, I focus on integrating **Machine Learning with Causal Inference**. Specifically, I'm interested in considering multiple modalities together to uncover novel features that can explain the mechanism of human decision-making within the context of **{E-commerce, Online Platform}**. Additionally, I am passionate about exploring **Recommender Systems** through **{Experimental Design, Agent-based Simulation}**. Currently, I am particularly interested in 1) improving evaluation methods and 2) enhancing negative sampling techniques.
+My research focuses on **improving how algorithmic systems are designed and evaluated on digital platforms**. I am particularly interested in the two-way relationship between users and algorithms: user behavior shapes what a system learns, while the system influences what users see, choose, and engage with over time.
+
+I explore these questions through recommender systems and the broader dynamics of online ecosystems. My work examines how LLMs can enable more realistic evaluations of recommender systems by simulating user responses, how behavioral feedback can improve algorithmic learning, and how fraudulent activity and content manipulation can shape exposure and outcomes for creators. To address these questions, I draw on experimental design, statistical modeling, and simulation.
  
 
 
