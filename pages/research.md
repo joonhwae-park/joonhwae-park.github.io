@@ -16,7 +16,7 @@ author_profile: true
 - **Impact of AI-generated Fraudulent Content at Scale on Online Platforms**  
 (with Panagiotis (Panos) Adamopoulos, Marios Papachristou)
 
-- **Survival-Calibrated Non-Return Neagative Sampling for Recommendation**  
+- **Survival-Calibrated Non-Return Negative Sampling for Recommendation**  
 (with Panagiotis (Panos) Adamopoulos)
 
 
